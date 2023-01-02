@@ -1,0 +1,26 @@
+{
+  "name": "challenge-10-oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superdriift/challenge-10-OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superdriift/challenge-10-OOP/issues"
+  },
+  "homepage": "https://github.com/superdriift/challenge-10-OOP#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "inquirer": "^8.2.4",
+    "jest": "^29.0.3"
+  }
+}
