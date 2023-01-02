@@ -1,0 +1,37 @@
+/* :root {
+    --white: rgb(232, 245, 245);
+    --red:rgb(195, 76, 76);
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--red);
+}
+
+
+#header {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    color: var(--white);
+    min-height: 100px;
+}
+
+main {
+    background-color: var(--white);
+    min-height: 900px;
+} */
+
+.container-fluid{
+    background-color: rgb(216, 71, 71);
+    color: white;
+}
+
+.card{
+    
+    background-color: rgb(46, 46, 255);
+    color: white;
+}
